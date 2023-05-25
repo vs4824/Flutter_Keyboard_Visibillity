@@ -1,4 +1,4 @@
-# Flutter Keyboard Visibillity
+# Flutter Keyboard Visibility
 
 React to keyboard visibility changes.
 
